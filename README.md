@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @osinmv
-- 👀 I’m interested in Statistics, Software development. Occasional Game Developer
-
-<!---
-osinmv/osinmv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Moved to self-hosted git server
